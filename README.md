@@ -1,7 +1,15 @@
 # Speech-Translator-to-Hindi-Text:
 
-* This Python code which converts your Speech in English into the Hindi Text.
-* The Library used are speech_recognition and Translator.
-* We modify the Code and can Convert into Other Langauges as well.
+* We need to install the Two Libraries:
+1. speech_recognition.
+2. Translator.
 
-Happy Coding. :computer: :100:
+In Jupyter Notebook we may write Command: 
+!pip install speechrecognition.
+!pip install Translator.
+
+Incase if we want  to Modify the Language we can Modify the Translator function Parameter to_lang into the required Language. 
+
+
+Happy Coding.
+:computer: :100:
